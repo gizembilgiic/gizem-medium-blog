@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-KararYapilari", "03-Kara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-TryParse&TryCatch", "04-TryParse&TryCatch\04-TryParse&TryCatch.csproj", "{88E15040-16B5-4A97-AC20-A82CE031D312}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Donguler", "05-Donguler", "{90E544D3-19F8-4891-B112-0699BA2C42DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For-Dongusu", "For-Dongusu\For-Dongusu.csproj", "{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +43,15 @@ Global
 		{88E15040-16B5-4A97-AC20-A82CE031D312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88E15040-16B5-4A97-AC20-A82CE031D312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88E15040-16B5-4A97-AC20-A82CE031D312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F3C1DCD-6C71-42E5-AE27-29BE8280BA72} = {90E544D3-19F8-4891-B112-0699BA2C42DF}
 	EndGlobalSection
 EndGlobal
