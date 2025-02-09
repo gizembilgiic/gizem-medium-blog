@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-ConsoleGiris", "00-Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Donusumler", "01-Donusumler\01-Donusumler.csproj", "{16B29C14-75E9-4A7A-B44B-2920CA917B9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Operatorler", "02-Operatorler\02-Operatorler.csproj", "{022973A2-E30D-436C-8D40-01FEE48D0CAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022973A2-E30D-436C-8D40-01FEE48D0CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022973A2-E30D-436C-8D40-01FEE48D0CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022973A2-E30D-436C-8D40-01FEE48D0CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022973A2-E30D-436C-8D40-01FEE48D0CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
