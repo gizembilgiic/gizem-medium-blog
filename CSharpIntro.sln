@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-ConsoleGiris", "00-ConsoleGiris\00-ConsoleGiris.csproj", "{C7066765-9505-4CD1-AFC6-37148B3FEF1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Donusumler", "01-Donusumler\01-Donusumler.csproj", "{16B29C14-75E9-4A7A-B44B-2920CA917B9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7066765-9505-4CD1-AFC6-37148B3FEF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7066765-9505-4CD1-AFC6-37148B3FEF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7066765-9505-4CD1-AFC6-37148B3FEF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B29C14-75E9-4A7A-B44B-2920CA917B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
